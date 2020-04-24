@@ -1,10 +1,11 @@
 # FollowCrypto
+Personal project completed in 2 weeks.
 
-Projet personnel effectué en 2 semaines.
+Application to track crypto-money in real time with MVP Design Pattern for Android and iOS. Written with Dart using Flutter SDK.
 
-Application pour suivre la crypto-monnaie en temps réel avec MVP Design Pattern pour Android et iOS. Écrit avec Dart à l'aide de SDK Flutter.
+After doing a personal project in Swift (for Apple devices), then a personal project for Android with Java and then another one with Kotlin, I wanted to make a project that allows me to make both an application for Apple, and for Android, in one go. And test some new Techno (and Dart!)
 
-Après avoir fait un projet personnel en Swift (pour les appareils Apple), puis un projet personnel pour Android avec Java puis un autre avec Kotlin, j'ai voulu faire un projet qui me permet de faire à la fois une application pour Apple, et pour Android, d'un seul coup. Et tester de nouvelles Techno (et Dart !)
+Translated with www.DeepL.com/Translator (free version)
 
 PHOTOS:
 
