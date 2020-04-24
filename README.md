@@ -5,8 +5,6 @@ Application to track crypto-money in real time with MVP Design Pattern for Andro
 
 After doing a personal project in Swift (for Apple devices), then a personal project for Android with Java and then another one with Kotlin, I wanted to make a project that allows me to make both an application for Apple, and for Android, in one go. And test some new Techno (and Dart!)
 
-Translated with www.DeepL.com/Translator (free version)
-
 PHOTOS:
 
 <img src="https://github.com/LaurineObriot/FollowCrypto/blob/master/screenshots/Capturerypto_iphone.PNG">
